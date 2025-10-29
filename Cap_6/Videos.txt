@@ -1,0 +1,14 @@
+CAPÍTULO 6: A Estabilidade de Sistemas Lineares com Realimentação
+Tópicos: Critério de Estabilidade de Routh-Hurwitz
+
+* Sistemas de Controle - Aula 5 - Seção 6 - Critério de estabilidade de Routh
+    URL: http://www.youtube.com/watch?v=nXHJ7b5p6vU
+
+* Análise de Estabilidade - Critério de Routh
+    URL: http://www.youtube.com/watch?v=gLxhEgrwvW0
+
+* Sistemas de Controle Modernos - Dorf e Bishop - 13ª Edição - Capítulo 6 - Exercício 6.4
+    URL: http://www.youtube.com/watch?v=aXLfZb1RrOA
+
+* Sistemas de Controle Modernos - Dorf e Bishop - 13ª Edição - Capítulo 6 - Exercício 6.1
+    URL: http://www.youtube.com/watch?v=Te5SF4F9KY8 

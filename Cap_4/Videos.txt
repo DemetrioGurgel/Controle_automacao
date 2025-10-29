@@ -1,0 +1,9 @@
+CAPÍTULO 4: Características de Sistemas de Controle com Realimentação
+Tópicos: Sensibilidade, Propriedades da Realimentação
+
+* Sensibilidade de um sistema de controle frente a variações nos parâmetros.
+    URL: http://www.youtube.com/watch?v=Xddlld7G4Ls
+
+* Aula 06 - Parte 02 - Propriedades da Realimentação - Erro em Regime Permanente
+    URL: http://www.youtube.com/watch?v=CoyEqP4DuQE
+

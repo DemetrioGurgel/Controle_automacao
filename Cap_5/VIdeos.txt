@@ -1,0 +1,14 @@
+CAPÍTULO 5: O Desempenho de Sistemas de Controle com Realimentação
+Tópicos: Resposta Transitória, Erro em Regime Estacionário
+
+* Análise de Resposta Transitória
+    URL: https://www.youtube.com/watch?v=fhMVSjSttzU
+
+* Exemplos do Cálculo do Erro em Sistemas de Controle
+    URL: http://www.youtube.com/watch?v=UeCpxxc-DOg
+
+* CP 09 - Erro de Estado Estacionário
+    URL: http://www.youtube.com/watch?v=-280ZO2wVk0
+
+* [Sistemas de Controle]: Lugar das raízes – Tempo de assentamento Parte 2
+    URL: http://www.youtube.com/watch?v=J5KFMqrmD-0
