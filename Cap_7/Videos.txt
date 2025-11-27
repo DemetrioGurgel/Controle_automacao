@@ -1,0 +1,11 @@
+CAPÍTULO 7: O Método do Lugar das Raízes
+Tópicos: Regras de Construção, Assíntotas, PID no LGR
+
+* Teoria de Controle - Lugar das Raízes - Parte 1 
+    URL: https://youtu.be/uNseQ6DqL-I?si=FZe8dEJUpoq1d1Pr
+
+* Controlador PD - Projeto pelo Método do Lugar das Raízes 
+    URL: https://youtu.be/E5pYHuUDt2g?si=HHtBHL0STh6eIv7X
+
+*  Método do lugar das raízes 	
+    URL: https://youtu.be/EYXeg6ITGgg?si=Cq5fogSFXt9CuwPW

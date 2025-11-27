@@ -1,0 +1,11 @@
+CAPÍTULO 10: O Projeto de Sistemas de Controle com Realimentação 
+Tópicos: Compensadores em Cascata, Avanço e Atraso de Fase (Lead/Lag)
+
+* Projeto de Controladores por Realimentação de Estado    
+    URL: https://youtu.be/Of5abNkUU4Y?si=BPKkg51guRVjox7E
+
+* Projeto LR: Atraso de Fase (ELT009, ELT035):
+    URL: https://youtu.be/jf6HXMq2tjU?si=TsOszL_DSJ7sqABF
+
+* Projeto LR: Avanço e Atraso de Fase (ELT009, ELT035)
+    URL: https://youtu.be/bulX3TrBauI?si=nV4bRvVW1O47E1Vd

@@ -1,0 +1,11 @@
+CAPÍTULO 13: Sistemas de Controle Digital 
+Tópicos: Transformada Z, Segurador de Ordem Zero (ZOH), Estabilidade no Plano-Z
+
+* Curso de controle digital 
+    URL: https://youtu.be/dJpidTfv8M8?si=npoX1qzqsTEqGVLE
+
+* Sistemas de Controle (aula 01) Introdução, Plano S, Função de Transferência, Polos e Zeros
+    URL: https://youtu.be/neYCp5JoYV0?si=CJRHXX-DaU6FBpwq
+
+* Aula PDS Discretização Método de Tustin 
+    URL: https://youtu.be/WufNaCgUBv0?si=AvmDaIdzp_84YlKK
